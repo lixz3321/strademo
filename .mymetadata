@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="strademo"
+  id="myeclipse.1481684504825"
+  context-root="/strademo"
+  j2ee-spec="5.0"
+  archive="strademo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
